@@ -1,11 +1,11 @@
-#include "Systems/Buildings/BuildComponent.h"
+#include "Systems/Buildings/Components/BuildComponent.h"
 #include "Components/MeshComponent.h"
 #include "Engine/GameInstance.h"
 #include "Engine/OverlapResult.h"
 #include "Engine/World.h"
 #include "GameFramework/PlayerController.h"
 #include "Systems/Buildings/Building.h"
-#include "Systems/Buildings/BuildingCatalogSubsystem.h"
+#include "Systems/Buildings/Subsystems/BuildingCatalogSubsystem.h"
 #include "Systems/Buildings/ModuleSocketSceneComponent.h"
 #include "Systems/Core/TraceLibrary.h"
 

@@ -2,7 +2,7 @@
 
 #include "CoreMinimal.h"
 #include "Subsystems/GameInstanceSubsystem.h"
-#include "Systems/Buildings/BuildingRow.h"
+#include "Systems/Buildings/Structs/BuildingRow.h"
 #include "BuildingCatalogSubsystem.generated.h"
 
 class UDataTable;

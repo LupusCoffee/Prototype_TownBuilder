@@ -1,4 +1,4 @@
-#include "Systems/Buildings/DemolishComponent.h"
+#include "Systems/Buildings/Components/DemolishComponent.h"
 #include "GameFramework/PlayerController.h"
 #include "Systems/Buildings/Building.h"
 #include "Systems/Core/TraceLibrary.h"

@@ -1,4 +1,4 @@
-#include "Systems/Buildings/BuildingCatalogSubsystem.h"
+#include "Systems/Buildings/Subsystems/BuildingCatalogSubsystem.h"
 #include "Engine/DataTable.h"
 #include "Systems/Core/TownBuilderSettings.h"
 

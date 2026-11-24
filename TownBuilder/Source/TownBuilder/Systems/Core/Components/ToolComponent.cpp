@@ -1,4 +1,4 @@
-#include "Systems/Player/ToolComponent.h"
+#include "Systems/Core/Components/ToolComponent.h"
 
 
 void UToolComponent::EnterTool_Implementation(ETool Tool)

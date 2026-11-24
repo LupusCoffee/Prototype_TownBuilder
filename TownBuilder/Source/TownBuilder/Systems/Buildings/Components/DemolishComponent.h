@@ -1,7 +1,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "Systems/Player/ToolComponent.h"
+#include "Systems/Core/Components/ToolComponent.h"
 #include "DemolishComponent.generated.h"
 
 class ABuilding;

@@ -2,7 +2,7 @@
 
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
-#include "Systems/Player/Tool.h"
+#include "Systems/Core/Enums/Tool.h"
 #include "ToolComponent.generated.h"
 
 UCLASS(Abstract, ClassGroup = (TownBuilder))

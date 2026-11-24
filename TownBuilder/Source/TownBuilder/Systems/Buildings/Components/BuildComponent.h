@@ -2,7 +2,7 @@
 
 #include "CoreMinimal.h"
 #include "GameplayTagContainer.h"
-#include "Systems/Player/ToolComponent.h"
+#include "Systems/Core/Components/ToolComponent.h"
 #include "BuildComponent.generated.h"
 
 class ABuilding;
